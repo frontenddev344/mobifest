@@ -1870,7 +1870,6 @@ h4.hotel_desc_subhead {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    filter: invert(1);
 }
 
 /* Loader CSS End*/
